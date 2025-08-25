@@ -12,7 +12,7 @@ header {
 
 header h1 {
   font-size: 2em;
-  color: #333;
+  color: grey;
   margin: 0;
 }
 
@@ -21,16 +21,16 @@ header h1 {
   margin: auto;
 }
 
-/* Photo Post Styles */
+
 .foto-post1, .foto-post2, .foto-post3, .foto-post4 {
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px black;
   margin-bottom: 20px;
   padding: 15px;
 }
 
-/* Header Styles */
+
 .encabezado-post1, .encabezado-post2, .encabezado-post3, .encabezado-post4 {
   display: flex;
   justify-content: space-between;
@@ -47,14 +47,14 @@ header h1 {
   color: #333;
 }
 
-/* Date Styles */
+
 .pagina1, .pagina2, .pagina3, .pagina4 {
   margin: 0;
   font-size: 0.9em;
-  color: #888;
+  color: grey;
 }
 
-/* Image and Caption */
+
 img {
   width: 100%;
   height: auto;
@@ -64,6 +64,6 @@ img {
 
 .descripcion {
   font-size: 1em;
-  color: #555;
+  color: grey;
   margin: 0;
 }
